@@ -1,6 +1,8 @@
 # Sea-Level-Predictor
 freeCodeCamp data analysis project written with Python/Pandas/Seaborn
-Assignment
+
+**Assignment**
+<br>
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
 
 Use the data to complete the following tasks:
